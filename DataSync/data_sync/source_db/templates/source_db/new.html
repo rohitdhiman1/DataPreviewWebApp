@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block title %}SourceDB Details{% endblock %}
+
+{% block content %}
+
+<h1>Please enter Source Database details</h1>
+
+<form method="POST">
+    <table>
+        {{ form }}
+    </table>
+    {% csrf_token %}
+    <button type="submit">Submit</button>
+</form>
+
+{% endblock %}

@@ -1,0 +1,242 @@
+{"ID": "1", "MUID": "4D078DFF-5007-48AD-B71F-E74EB64D638E", "Code": "AfghanistanAFN", "Currency": "AFN", "Country_Name": "Afghanistan", "Flag": "True"}
+{"ID": "2", "MUID": "262B8875-7878-4222-A23B-B9FB3FA5BA92", "Code": "AlbaniaALL", "Currency": "ALL", "Country_Name": "Albania", "Flag": "True"}
+{"ID": "3", "MUID": "236922A8-BD6C-48EE-B45F-F1490FBA0CE9", "Code": "AlgeriaDZD", "Currency": "DZD", "Country_Name": "Algeria", "Flag": "True"}
+{"ID": "4", "MUID": "CD98A6E8-EDB4-4784-B4FB-7E1DE180872E", "Code": "American SamoaUSD", "Currency": "USD", "Country_Name": "American Samoa", "Flag": "True"}
+{"ID": "5", "MUID": "DF7203F3-528F-44DA-8431-659A4298AA29", "Code": "AndorraEUR", "Currency": "EUR", "Country_Name": "Andorra", "Flag": "True"}
+{"ID": "6", "MUID": "B269EBFC-CA4B-41ED-91B7-48150422125B", "Code": "AngolaAOA", "Currency": "AOA", "Country_Name": "Angola", "Flag": "True"}
+{"ID": "7", "MUID": "BB0E9739-986A-485A-B868-0A8FF1F43C34", "Code": "AnguillaXCD", "Currency": "XCD", "Country_Name": "Anguilla", "Flag": "True"}
+{"ID": "8", "MUID": "73EAF4CB-3785-4C67-8DD5-2C1EF8ED48B0", "Code": "Antigua and BarbudaXCD", "Currency": "XCD", "Country_Name": "Antigua and Barbuda", "Flag": "True"}
+{"ID": "9", "MUID": "C6EDF785-7B8E-469B-A627-36F5169D37B4", "Code": "ArgentinaARS", "Currency": "ARS", "Country_Name": "Argentina", "Flag": "True"}
+{"ID": "10", "MUID": "8F342A26-7893-4137-975A-7499F3D5AF98", "Code": "ArmeniaAMD", "Currency": "AMD", "Country_Name": "Armenia", "Flag": "True"}
+{"ID": "11", "MUID": "4538F5FC-B471-4DA7-B108-578363A5C880", "Code": "ArubaAWG", "Currency": "AWG", "Country_Name": "Aruba", "Flag": "True"}
+{"ID": "12", "MUID": "32B358D9-856A-4BBA-A7B8-6AD7E10B48F7", "Code": "AustraliaAUD", "Currency": "AUD", "Country_Name": "Australia", "Flag": "True"}
+{"ID": "13", "MUID": "3C69BC7A-4C06-4464-A178-886BF1A2EB94", "Code": "AustriaEUR", "Currency": "EUR", "Country_Name": "Austria", "Flag": "True"}
+{"ID": "14", "MUID": "CC30F544-3F14-4EEE-A580-10DFCD06A187", "Code": "AzerbaijanAZN", "Currency": "AZN", "Country_Name": "Azerbaijan", "Flag": "True"}
+{"ID": "15", "MUID": "09321D75-B797-4DA9-B705-8227CA6A1551", "Code": "BahamasBSD", "Currency": "BSD", "Country_Name": "Bahamas", "Flag": "True"}
+{"ID": "16", "MUID": "FFF69AA8-418B-40B4-8A5C-D28898C41B14", "Code": "BahrainBHD", "Currency": "BHD", "Country_Name": "Bahrain", "Flag": "True"}
+{"ID": "17", "MUID": "3D5E1AA8-B594-4370-96E6-CCD10C40E014", "Code": "BangladeshBDT", "Currency": "BDT", "Country_Name": "Bangladesh", "Flag": "True"}
+{"ID": "18", "MUID": "1961B12E-7044-495E-AB70-EAE898A240D8", "Code": "BarbadosBBD", "Currency": "BBD", "Country_Name": "Barbados", "Flag": "True"}
+{"ID": "19", "MUID": "77E09608-AC9B-47F3-93E2-3C9F5FE8B853", "Code": "BelarusBYR", "Currency": "BYR", "Country_Name": "Belarus", "Flag": "True"}
+{"ID": "20", "MUID": "DEEB6E02-34A1-4432-B3AA-5ADFCFE11BD0", "Code": "BelgiumEUR", "Currency": "EUR", "Country_Name": "Belgium", "Flag": "True"}
+{"ID": "21", "MUID": "08FC5A79-2451-4BF7-8CA6-00D6E6D24394", "Code": "BelizeBZD", "Currency": "BZD", "Country_Name": "Belize", "Flag": "True"}
+{"ID": "22", "MUID": "8380F714-F1CD-4534-AC55-CDE9C9BE0B46", "Code": "BeninXOF", "Currency": "XOF", "Country_Name": "Benin", "Flag": "True"}
+{"ID": "23", "MUID": "0C33EC37-EC91-451F-98C6-76435128D073", "Code": "BermudaBMD", "Currency": "BMD", "Country_Name": "Bermuda", "Flag": "True"}
+{"ID": "24", "MUID": "53766A3D-D90F-46B7-9335-445D341409A6", "Code": "BhutanBTN", "Currency": "BTN", "Country_Name": "Bhutan", "Flag": "True"}
+{"ID": "26", "MUID": "D575D099-DDBA-4C41-AB35-0217C2C199E8", "Code": "Bolivia, Plurinational State ofBOB", "Currency": "BOB", "Country_Name": "Bolivia, Plurinational State of", "Flag": "True"}
+{"ID": "27", "MUID": "8BB2A9F8-A032-4177-860E-4CB8D3B0DA94", "Code": "Bonaire, Saint Eustatius and SabaUSD", "Currency": "USD", "Country_Name": "Bonaire, Saint Eustatius and Saba", "Flag": "True"}
+{"ID": "28", "MUID": "9F91B6FD-BAAA-4387-BA5D-3544CAD060A3", "Code": "Bosnia and HerzegovinaBAM", "Currency": "BAM", "Country_Name": "Bosnia and Herzegovina", "Flag": "True"}
+{"ID": "29", "MUID": "C2401D1F-31BB-483F-A3A4-4B033924D066", "Code": "BotswanaBWP", "Currency": "BWP", "Country_Name": "Botswana", "Flag": "True"}
+{"ID": "30", "MUID": "89680161-A450-4438-8140-DE7F09A4413C", "Code": "Bouvet IslandNOK", "Currency": "NOK", "Country_Name": "Bouvet Island", "Flag": "True"}
+{"ID": "31", "MUID": "1A7D121D-5E2A-4963-9F7D-F172F5983C4C", "Code": "BrazilBRL", "Currency": "BRL", "Country_Name": "Brazil", "Flag": "True"}
+{"ID": "32", "MUID": "8DF18565-F099-44B6-BF10-1D8A00D265FC", "Code": "British Indian Ocean TerritoryUSD", "Currency": "USD", "Country_Name": "British Indian Ocean Territory", "Flag": "True"}
+{"ID": "33", "MUID": "DE611F0D-D9AE-4F24-9E57-56284933152E", "Code": "Brunei DarussalamBND", "Currency": "BND", "Country_Name": "Brunei Darussalam", "Flag": "True"}
+{"ID": "34", "MUID": "1F6DECC9-17CC-4EDE-87A9-16DAE36C7E7D", "Code": "BulgariaBGN", "Currency": "BGN", "Country_Name": "Bulgaria", "Flag": "True"}
+{"ID": "35", "MUID": "6AB27D0D-0329-45C4-B96E-AA1A3E67C7A6", "Code": "Burkina FasoXOF", "Currency": "XOF", "Country_Name": "Burkina Faso", "Flag": "True"}
+{"ID": "36", "MUID": "BC38D0D1-9C75-4725-9284-E57BB51AD6A9", "Code": "BurundiBIF", "Currency": "BIF", "Country_Name": "Burundi", "Flag": "True"}
+{"ID": "37", "MUID": "F275B36E-F58D-4B7A-8279-BEE5A765D586", "Code": "CambodiaKHR", "Currency": "KHR", "Country_Name": "Cambodia", "Flag": "True"}
+{"ID": "38", "MUID": "A3C1B7C1-E714-44B1-A478-A6507A64915D", "Code": "CameroonXAF", "Currency": "XAF", "Country_Name": "Cameroon", "Flag": "True"}
+{"ID": "39", "MUID": "84104A4A-6E75-4171-998C-7D2C6F9D0323", "Code": "CanadaCAD", "Currency": "CAD", "Country_Name": "Canada", "Flag": "True"}
+{"ID": "40", "MUID": "A2816261-6071-4B28-8DCE-670E22B09D21", "Code": "Cape VerdeCVE", "Currency": "CVE", "Country_Name": "Cape Verde", "Flag": "True"}
+{"ID": "41", "MUID": "06F16917-0DE5-4319-9656-B6B6BD8AF6B9", "Code": "Cayman IslandsKYD", "Currency": "KYD", "Country_Name": "Cayman Islands", "Flag": "True"}
+{"ID": "42", "MUID": "51A89130-B92B-461D-8340-12EB9FEBFE2E", "Code": "Central African RepublicXAF", "Currency": "XAF", "Country_Name": "Central African Republic", "Flag": "True"}
+{"ID": "43", "MUID": "02B2B0D8-8FC7-4906-955F-184B7DE0A73A", "Code": "ChadXAF", "Currency": "XAF", "Country_Name": "Chad", "Flag": "True"}
+{"ID": "44", "MUID": "87A74E6E-1B83-4AC9-9201-19135B2283DD", "Code": "ChileCLP", "Currency": "CLP", "Country_Name": "Chile", "Flag": "True"}
+{"ID": "45", "MUID": "2FF7D018-BB3C-4875-B4B6-BB5041201F54", "Code": "ChinaCNY", "Currency": "CNY", "Country_Name": "China", "Flag": "True"}
+{"ID": "46", "MUID": "27DF66B4-F866-4929-B11E-93FFD32E3761", "Code": "Christmas IslandAUD", "Currency": "AUD", "Country_Name": "Christmas Island", "Flag": "True"}
+{"ID": "47", "MUID": "067E4E37-C7A4-4914-822D-254334DE6314", "Code": "Cocos (Keeling) IslandsAUD", "Currency": "AUD", "Country_Name": "Cocos (Keeling) Islands", "Flag": "True"}
+{"ID": "48", "MUID": "7772A05C-21BE-4F27-A2C3-E487FF265389", "Code": "ColombiaCOP", "Currency": "COP", "Country_Name": "Colombia", "Flag": "True"}
+{"ID": "49", "MUID": "37C127BB-71D6-4BD1-ADB8-492BA7E7BECA", "Code": "ComorosKMF", "Currency": "KMF", "Country_Name": "Comoros", "Flag": "True"}
+{"ID": "50", "MUID": "7CC7A3E6-3B6F-4521-BFCD-E4B0A81D797A", "Code": "CongoXAF", "Currency": "XAF", "Country_Name": "Congo", "Flag": "True"}
+{"ID": "51", "MUID": "FF412AB6-62F6-4030-8CE6-DA9A5CBD858E", "Code": "Congo, The Democratic Republic of theCDF", "Currency": "CDF", "Country_Name": "Congo, The Democratic Republic of the", "Flag": "True"}
+{"ID": "52", "MUID": "681A47F3-5EAD-4B97-9F55-4C5CE043B25F", "Code": "Cook IslandsNZD", "Currency": "NZD", "Country_Name": "Cook Islands", "Flag": "True"}
+{"ID": "53", "MUID": "24337166-350F-4A59-A41B-F41686EEF147", "Code": "Costa RicaCRC", "Currency": "CRC", "Country_Name": "Costa Rica", "Flag": "True"}
+{"ID": "54", "MUID": "38C3B212-5F63-49F6-994B-A500BDC5373C", "Code": "C\u00c3\u00b4te D\u00e2\u20ac\u2122ivoireXOF", "Currency": "XOF", "Country_Name": "C\u00c3\u00b4te D\u00e2\u20ac\u2122ivoire", "Flag": "True"}
+{"ID": "55", "MUID": "454313FA-3BE4-470A-BA86-345B0CE0BFCD", "Code": "CroatiaHRK", "Currency": "HRK", "Country_Name": "Croatia", "Flag": "True"}
+{"ID": "56", "MUID": "FFF7C968-8A93-4471-9257-CC271CE16922", "Code": "CubaCUC", "Currency": "CUC", "Country_Name": "Cuba", "Flag": "True"}
+{"ID": "57", "MUID": "88AD8CCF-A227-457C-BA12-CC30670DA3F3", "Code": "CuracaoANG", "Currency": "ANG", "Country_Name": "Curacao", "Flag": "True"}
+{"ID": "58", "MUID": "837A65C1-34D0-4F99-8E4D-A2FBA3A733C9", "Code": "CyprusEUR", "Currency": "EUR", "Country_Name": "Cyprus", "Flag": "True"}
+{"ID": "59", "MUID": "C60AD6D9-1ACA-49A6-9D94-349D4F1CC557", "Code": "Czech RepublicCZK", "Currency": "CZK", "Country_Name": "Czech Republic", "Flag": "True"}
+{"ID": "60", "MUID": "1A4FE2F9-8C9D-4F36-B1AB-E1A47EC8226B", "Code": "DenmarkDKK", "Currency": "DKK", "Country_Name": "Denmark", "Flag": "True"}
+{"ID": "61", "MUID": "1F3D2D73-D6E4-4070-824B-16EB85068F20", "Code": "DjiboutiDJF", "Currency": "DJF", "Country_Name": "Djibouti", "Flag": "True"}
+{"ID": "62", "MUID": "8E8EFDAC-1A2B-4A96-9D9E-B1AD35F9DE16", "Code": "DominicaXCD", "Currency": "XCD", "Country_Name": "Dominica", "Flag": "True"}
+{"ID": "63", "MUID": "D916DE12-BD96-40FA-985D-BFA9648C86C5", "Code": "Dominican RepublicDOP", "Currency": "DOP", "Country_Name": "Dominican Republic", "Flag": "True"}
+{"ID": "64", "MUID": "20D2F81D-8F5A-49C7-A6FC-A8D4B60C989F", "Code": "EcuadorUSD", "Currency": "USD", "Country_Name": "Ecuador", "Flag": "True"}
+{"ID": "65", "MUID": "3DAF732F-FE81-4D93-BF4D-A679DF2D3883", "Code": "EgyptEGP", "Currency": "EGP", "Country_Name": "Egypt", "Flag": "True"}
+{"ID": "66", "MUID": "51EE69DA-1A8A-4F02-83FF-D944611FDC3D", "Code": "El SalvadorUSD", "Currency": "USD", "Country_Name": "El Salvador", "Flag": "True"}
+{"ID": "67", "MUID": "9AE2F7E5-ADCA-428A-B790-FBF7E6128E78", "Code": "Equatorial GuineaXAF", "Currency": "XAF", "Country_Name": "Equatorial Guinea", "Flag": "True"}
+{"ID": "68", "MUID": "153EE4F2-1593-4C89-981E-9FB622ABB0E9", "Code": "EritreaERN", "Currency": "ERN", "Country_Name": "Eritrea", "Flag": "True"}
+{"ID": "69", "MUID": "6C3734D4-5E1F-4F96-BF54-05BFEAB3F735", "Code": "EstoniaEUR", "Currency": "EUR", "Country_Name": "Estonia", "Flag": "True"}
+{"ID": "70", "MUID": "D66A197D-BD26-4FBC-87F8-EEC5650D6728", "Code": "EthiopiaETB", "Currency": "ETB", "Country_Name": "Ethiopia", "Flag": "True"}
+{"ID": "71", "MUID": "5B11DDC8-7CCC-4165-8690-E14E51B08AE6", "Code": "Falkland Islands (Malvinas)FKP", "Currency": "FKP", "Country_Name": "Falkland Islands (Malvinas)", "Flag": "True"}
+{"ID": "72", "MUID": "CCB0263E-7611-4C9D-89EC-04EA24672278", "Code": "Faroe IslandsDKK", "Currency": "DKK", "Country_Name": "Faroe Islands", "Flag": "True"}
+{"ID": "73", "MUID": "2015CC79-ACF9-4B33-B5CA-17D048A891BF", "Code": "FijiFJD", "Currency": "FJD", "Country_Name": "Fiji", "Flag": "True"}
+{"ID": "74", "MUID": "894CB6F9-E293-48D0-9CE5-4E63F408DF49", "Code": "FinlandEUR", "Currency": "EUR", "Country_Name": "Finland", "Flag": "True"}
+{"ID": "75", "MUID": "9BA8BCC6-1257-4A52-B3F5-0BEC604A4BCD", "Code": "FranceEUR", "Currency": "EUR", "Country_Name": "France", "Flag": "True"}
+{"ID": "76", "MUID": "8FDC1DC0-8D65-4BC2-B3C1-1508E213B146", "Code": "French GuianaEUR", "Currency": "EUR", "Country_Name": "French Guiana", "Flag": "True"}
+{"ID": "77", "MUID": "AC8BFF51-B6AB-4DA1-86CF-301E718D058B", "Code": "French PolynesiaXPF", "Currency": "XPF", "Country_Name": "French Polynesia", "Flag": "True"}
+{"ID": "78", "MUID": "7031A9A7-7EDD-4439-9921-21C5D1DBE637", "Code": "French Southern TerritoriesEUR", "Currency": "EUR", "Country_Name": "French Southern Territories", "Flag": "True"}
+{"ID": "79", "MUID": "57BF60B8-BD15-4FA2-9B66-1B4821C3F6B6", "Code": "GabonXAF", "Currency": "XAF", "Country_Name": "Gabon", "Flag": "True"}
+{"ID": "80", "MUID": "25D3590F-5249-4EDB-B690-9EE0274B8C04", "Code": "Gambia, the Republic of theGMD", "Currency": "GMD", "Country_Name": "Gambia, the Republic of the", "Flag": "True"}
+{"ID": "81", "MUID": "6A4A22BE-6552-4609-94F8-FD634C24E5E7", "Code": "GeorgiaGEL", "Currency": "GEL", "Country_Name": "Georgia", "Flag": "True"}
+{"ID": "82", "MUID": "F32A051D-017C-4AC8-9259-6EBE25B71888", "Code": "GermanyEUR", "Currency": "EUR", "Country_Name": "Germany", "Flag": "True"}
+{"ID": "83", "MUID": "91AEAF91-CBDF-47BC-8AA0-DC0AAB6640C9", "Code": "GhanaGHS", "Currency": "GHS", "Country_Name": "Ghana", "Flag": "True"}
+{"ID": "84", "MUID": "186FAB20-2B75-46C0-924F-48319ED2AFA4", "Code": "GibraltarGIP", "Currency": "GIP", "Country_Name": "Gibraltar", "Flag": "True"}
+{"ID": "85", "MUID": "8DA5AA18-6974-4B58-B0DB-CCC5CAE23D2F", "Code": "GreeceEUR", "Currency": "EUR", "Country_Name": "Greece", "Flag": "True"}
+{"ID": "86", "MUID": "DFA2561B-3EF6-4B84-ADCE-009DBF184A73", "Code": "GreenlandDKK", "Currency": "DKK", "Country_Name": "Greenland", "Flag": "True"}
+{"ID": "87", "MUID": "940FB521-22B7-450F-A299-EA9FA1C4B73A", "Code": "GrenadaXCD", "Currency": "XCD", "Country_Name": "Grenada", "Flag": "True"}
+{"ID": "88", "MUID": "1F7D0090-B960-4BBE-BC1D-9C9BDDC26C52", "Code": "GuadeloupeEUR", "Currency": "EUR", "Country_Name": "Guadeloupe", "Flag": "True"}
+{"ID": "89", "MUID": "676E5184-B2BD-45F0-9CF9-B87F80E7FCFF", "Code": "GuamUSD", "Currency": "USD", "Country_Name": "Guam", "Flag": "True"}
+{"ID": "90", "MUID": "DDEC3450-5B32-47C1-B331-A57440A07254", "Code": "GuatemalaGTQ", "Currency": "GTQ", "Country_Name": "Guatemala", "Flag": "True"}
+{"ID": "91", "MUID": "EF7981CA-E9E3-413C-84EE-DD897C25C8D9", "Code": "GuernseyGBP", "Currency": "GBP", "Country_Name": "Guernsey", "Flag": "True"}
+{"ID": "92", "MUID": "29F3AE22-AEC6-43F4-AC2A-EC75A8745A91", "Code": "GuineaGNF", "Currency": "GNF", "Country_Name": "Guinea", "Flag": "True"}
+{"ID": "93", "MUID": "9A804BF0-5304-4736-9245-81812E6CECEA", "Code": "Guinea-BissauXOF", "Currency": "XOF", "Country_Name": "Guinea-Bissau", "Flag": "True"}
+{"ID": "94", "MUID": "C11E53F9-4DC3-4469-8B2D-EE442073C812", "Code": "GuyanaGYD", "Currency": "GYD", "Country_Name": "Guyana", "Flag": "True"}
+{"ID": "95", "MUID": "876530DC-371D-48C0-8B12-CAFB9CD731AF", "Code": "HaitiHTG", "Currency": "HTG", "Country_Name": "Haiti", "Flag": "True"}
+{"ID": "96", "MUID": "75C728B3-F07F-44AB-95A6-0EE73EA184D9", "Code": "Heard Island and McDonald IslandsAUD", "Currency": "AUD", "Country_Name": "Heard Island and McDonald Islands", "Flag": "True"}
+{"ID": "97", "MUID": "38A54AC7-9BAD-459B-B7D4-D7C2EB43C2AD", "Code": "HondurasHNL", "Currency": "HNL", "Country_Name": "Honduras", "Flag": "True"}
+{"ID": "98", "MUID": "0C7E49F8-58F5-48CD-902C-17B583CB3625", "Code": "Hong KongHKD", "Currency": "HKD", "Country_Name": "Hong Kong", "Flag": "True"}
+{"ID": "99", "MUID": "50626A26-687B-4ABA-A16C-3D3745D1C464", "Code": "HungaryHUF", "Currency": "HUF", "Country_Name": "Hungary", "Flag": "True"}
+{"ID": "100", "MUID": "60FD4830-54F2-4722-BCD4-5A061A45755B", "Code": "IcelandISK", "Currency": "ISK", "Country_Name": "Iceland", "Flag": "True"}
+{"ID": "101", "MUID": "0898DD2E-2E94-4B19-BAD8-82F6E62A0E1C", "Code": "IndiaINR", "Currency": "INR", "Country_Name": "India", "Flag": "True"}
+{"ID": "102", "MUID": "114D56CE-6135-4BE3-9F94-503CDF2059C8", "Code": "IndonesiaIDR", "Currency": "IDR", "Country_Name": "Indonesia", "Flag": "True"}
+{"ID": "103", "MUID": "5BEDEBFD-EB9F-4027-B7C5-2B9228392A42", "Code": "Iran (Islamic Republic of)IRR", "Currency": "IRR", "Country_Name": "Iran (Islamic Republic of)", "Flag": "True"}
+{"ID": "104", "MUID": "351E6667-026D-4EEF-B809-E98F707BE743", "Code": "IraqIQD", "Currency": "IQD", "Country_Name": "Iraq", "Flag": "True"}
+{"ID": "105", "MUID": "84502BF2-E12C-428D-BFF6-6330B3B92831", "Code": "IrelandEUR", "Currency": "EUR", "Country_Name": "Ireland", "Flag": "True"}
+{"ID": "106", "MUID": "73B4E859-60A5-4499-9E10-4F968CB99601", "Code": "Isle of ManGBP", "Currency": "GBP", "Country_Name": "Isle of Man", "Flag": "True"}
+{"ID": "107", "MUID": "55B00577-1A6F-4C2D-A4C2-B1D4FA5909C2", "Code": "IsraelILS", "Currency": "ILS", "Country_Name": "Israel", "Flag": "True"}
+{"ID": "108", "MUID": "AE252321-7B46-4ACE-B14A-B3621BB55A38", "Code": "ItalyEUR", "Currency": "EUR", "Country_Name": "Italy", "Flag": "True"}
+{"ID": "109", "MUID": "208E1959-525F-453E-9F43-CF460DBD03CB", "Code": "JamaicaJMD", "Currency": "JMD", "Country_Name": "Jamaica", "Flag": "True"}
+{"ID": "110", "MUID": "DB699FED-B279-48E9-B18F-7CEB1CF66BD1", "Code": "JapanJPY", "Currency": "JPY", "Country_Name": "Japan", "Flag": "True"}
+{"ID": "111", "MUID": "65DA3EE4-B589-42D1-B140-72C130B72895", "Code": "JerseyGBP", "Currency": "GBP", "Country_Name": "Jersey", "Flag": "True"}
+{"ID": "112", "MUID": "F5694E1F-EAEB-40BF-B33D-E5379DDB8EF7", "Code": "JordanJOD", "Currency": "JOD", "Country_Name": "Jordan", "Flag": "True"}
+{"ID": "113", "MUID": "37E6083F-9A5B-4C1F-995E-3D36D3EE2BD2", "Code": "KazakhstanKZT", "Currency": "KZT", "Country_Name": "Kazakhstan", "Flag": "True"}
+{"ID": "114", "MUID": "77BDB38D-3E3F-41D8-B5C5-236F2C907D94", "Code": "KenyaKES", "Currency": "KES", "Country_Name": "Kenya", "Flag": "True"}
+{"ID": "115", "MUID": "3181035F-2D7D-4A09-BAF1-A10D0FBF3E52", "Code": "KiribatiAUD", "Currency": "AUD", "Country_Name": "Kiribati", "Flag": "True"}
+{"ID": "116", "MUID": "39DFAD5B-2932-461C-BE17-E1B1E87A15AA", "Code": "Korea, Democratic People's Republic ofKPW", "Currency": "KPW", "Country_Name": "Korea, Democratic People's Republic of", "Flag": "True"}
+{"ID": "117", "MUID": "10673CA1-C9D1-4637-89F5-F69FF030B798", "Code": "Korea, Republic ofKRW", "Currency": "KRW", "Country_Name": "Korea, Republic of", "Flag": "True"}
+{"ID": "118", "MUID": "D50AC92B-07CD-46FD-A0CC-6B1DCC6CD482", "Code": "KuwaitKWD", "Currency": "KWD", "Country_Name": "Kuwait", "Flag": "True"}
+{"ID": "119", "MUID": "CEB4E81F-1D90-4AD1-ACD5-2F7B95BBCF51", "Code": "KyrgyzstanKGS", "Currency": "KGS", "Country_Name": "Kyrgyzstan", "Flag": "True"}
+{"ID": "120", "MUID": "6499A267-B523-494D-BE98-8FDD96FFE61A", "Code": "Lao People's Democratic RepublicLAK", "Currency": "LAK", "Country_Name": "Lao People's Democratic Republic", "Flag": "True"}
+{"ID": "121", "MUID": "CD59A4B1-649D-420E-94DF-D097D085AE19", "Code": "LatviaEUR", "Currency": "EUR", "Country_Name": "Latvia", "Flag": "True"}
+{"ID": "122", "MUID": "73340AF5-A703-4FAE-84F3-18AF22345D4D", "Code": "LebanonLBP", "Currency": "LBP", "Country_Name": "Lebanon", "Flag": "True"}
+{"ID": "123", "MUID": "0C705762-D008-48E2-8596-521B8ACBAD61", "Code": "LesothoLSL", "Currency": "LSL", "Country_Name": "Lesotho", "Flag": "True"}
+{"ID": "124", "MUID": "D507CF06-1873-4A4F-BC0D-D4C4B34D952E", "Code": "LiberiaLRD", "Currency": "LRD", "Country_Name": "Liberia", "Flag": "True"}
+{"ID": "125", "MUID": "D8277F7D-A299-4D60-B74F-406FF181A30D", "Code": "LibyaLYD", "Currency": "LYD", "Country_Name": "Libya", "Flag": "True"}
+{"ID": "126", "MUID": "68785E80-D65E-4DBD-AE86-9448697FA237", "Code": "LiechtensteinCHF", "Currency": "CHF", "Country_Name": "Liechtenstein", "Flag": "True"}
+{"ID": "127", "MUID": "F1300D89-2CF6-44DC-AB23-84048A656E33", "Code": "LithuaniaEUR", "Currency": "EUR", "Country_Name": "Lithuania", "Flag": "True"}
+{"ID": "128", "MUID": "32621DD1-B79D-414F-89BF-106F244713A2", "Code": "LuxembourgEUR", "Currency": "EUR", "Country_Name": "Luxembourg", "Flag": "True"}
+{"ID": "129", "MUID": "2A75F584-19BA-4478-9939-90E0CB8BBDFB", "Code": "MacauMOP", "Currency": "MOP", "Country_Name": "Macau", "Flag": "True"}
+{"ID": "130", "MUID": "B71A251B-E424-45F0-8CCE-782826100511", "Code": "MacedoniaMKD", "Currency": "MKD", "Country_Name": "Macedonia", "Flag": "True"}
+{"ID": "131", "MUID": "2CBAF4AE-DF65-4C43-9F6A-67887B68B70A", "Code": "MadagascarMGA", "Currency": "MGA", "Country_Name": "Madagascar", "Flag": "True"}
+{"ID": "132", "MUID": "AA45685A-B820-42E0-9C1E-722C4FCB0E9B", "Code": "MalawiMWK", "Currency": "MWK", "Country_Name": "Malawi", "Flag": "True"}
+{"ID": "133", "MUID": "19E6A391-4938-465A-91A8-3072189DE4B1", "Code": "MalaysiaMYR", "Currency": "MYR", "Country_Name": "Malaysia", "Flag": "True"}
+{"ID": "134", "MUID": "60FF1155-701F-4573-8332-C8D76E3D6AC1", "Code": "MaldivesMVR", "Currency": "MVR", "Country_Name": "Maldives", "Flag": "True"}
+{"ID": "135", "MUID": "5CE96D44-780A-464A-94F2-C6ED560D0A77", "Code": "MaliXOF", "Currency": "XOF", "Country_Name": "Mali", "Flag": "True"}
+{"ID": "136", "MUID": "3882C82F-7BA0-41B9-8B43-2E9C6BD07617", "Code": "MaltaEUR", "Currency": "EUR", "Country_Name": "Malta", "Flag": "True"}
+{"ID": "137", "MUID": "48F0B394-6D9C-419C-9934-2DF11B3F2F1E", "Code": "Marshall IslandsUSD", "Currency": "USD", "Country_Name": "Marshall Islands", "Flag": "True"}
+{"ID": "138", "MUID": "3E1BFF24-A6B2-42A6-8F2B-D0313BA94525", "Code": "MartiniqueEUR", "Currency": "EUR", "Country_Name": "Martinique", "Flag": "True"}
+{"ID": "139", "MUID": "C2E4A914-F675-412B-ABD7-4AD36BEF4A5A", "Code": "MauritaniaMRO", "Currency": "MRO", "Country_Name": "Mauritania", "Flag": "True"}
+{"ID": "140", "MUID": "570CF340-F256-4EE7-BDF8-AE86D7F77DB0", "Code": "MauritiusMUR", "Currency": "MUR", "Country_Name": "Mauritius", "Flag": "True"}
+{"ID": "141", "MUID": "90DDD878-2701-4184-8BB6-71FB7C464D37", "Code": "MayotteEUR", "Currency": "EUR", "Country_Name": "Mayotte", "Flag": "True"}
+{"ID": "142", "MUID": "0AA6462F-D899-44C2-92F9-4BBE515F33F1", "Code": "MexicoMXN", "Currency": "MXN", "Country_Name": "Mexico", "Flag": "True"}
+{"ID": "143", "MUID": "24D85235-A1D0-4BF1-B488-163B3C416BA8", "Code": "Micronesia (Federated States of)USD", "Currency": "USD", "Country_Name": "Micronesia (Federated States of)", "Flag": "True"}
+{"ID": "144", "MUID": "AED61136-5B0C-4CD3-B47F-A6CFB46406F1", "Code": "Moldova, Republic ofMDL", "Currency": "MDL", "Country_Name": "Moldova, Republic of", "Flag": "True"}
+{"ID": "145", "MUID": "891F114E-68CA-4B42-9791-4F08D07DCB41", "Code": "MonacoEUR", "Currency": "EUR", "Country_Name": "Monaco", "Flag": "True"}
+{"ID": "146", "MUID": "C48F439B-2D5A-452B-BB1E-46544D905E55", "Code": "MongoliaMNT", "Currency": "MNT", "Country_Name": "Mongolia", "Flag": "True"}
+{"ID": "147", "MUID": "D29CF75B-11C7-4838-9446-177619EB7422", "Code": "MontenegroEUR", "Currency": "EUR", "Country_Name": "Montenegro", "Flag": "True"}
+{"ID": "148", "MUID": "3E245C88-86F8-4787-BF3E-B3E85EE8524F", "Code": "MontserratXCD", "Currency": "XCD", "Country_Name": "Montserrat", "Flag": "True"}
+{"ID": "149", "MUID": "0BDD0C2F-2237-4D03-A8E3-5421749664D7", "Code": "MoroccoMAD", "Currency": "MAD", "Country_Name": "Morocco", "Flag": "True"}
+{"ID": "150", "MUID": "CD22DDB4-2897-4B60-9B37-1C89A65573B1", "Code": "MozambiqueMZN", "Currency": "MZN", "Country_Name": "Mozambique", "Flag": "True"}
+{"ID": "151", "MUID": "FE52D6D4-A1D4-4CE5-BD66-32E086595397", "Code": "MyanmarMMK", "Currency": "MMK", "Country_Name": "Myanmar", "Flag": "True"}
+{"ID": "152", "MUID": "E91CFEB9-008D-4E28-BB76-5E9104481A6C", "Code": "NamibiaNAD", "Currency": "NAD", "Country_Name": "Namibia", "Flag": "True"}
+{"ID": "153", "MUID": "CA9E4328-CAA9-456B-A84D-21F1B8966384", "Code": "NauruAUD", "Currency": "AUD", "Country_Name": "Nauru", "Flag": "True"}
+{"ID": "154", "MUID": "80382C74-61CA-408D-8B23-CCF0DCBEF308", "Code": "NepalNPR", "Currency": "NPR", "Country_Name": "Nepal", "Flag": "True"}
+{"ID": "155", "MUID": "691C983B-7A59-4834-A6FF-D0E30D182D46", "Code": "NetherlandsEUR", "Currency": "EUR", "Country_Name": "Netherlands", "Flag": "True"}
+{"ID": "156", "MUID": "0095BF4C-21DE-4882-BD18-DDCA3C99DEC2", "Code": "New CaledoniaXPF", "Currency": "XPF", "Country_Name": "New Caledonia", "Flag": "True"}
+{"ID": "157", "MUID": "DC609C8C-0A2E-4AB5-9655-D830E79661F2", "Code": "New ZealandNZD", "Currency": "NZD", "Country_Name": "New Zealand", "Flag": "True"}
+{"ID": "158", "MUID": "83F2131A-3626-4021-B1EB-AAE41A3EF715", "Code": "NicaraguaNIO", "Currency": "NIO", "Country_Name": "Nicaragua", "Flag": "True"}
+{"ID": "159", "MUID": "79014B2D-F010-497A-9972-ED1E47A59D26", "Code": "NigerXOF", "Currency": "XOF", "Country_Name": "Niger", "Flag": "True"}
+{"ID": "160", "MUID": "FE6587B6-6405-476D-AC77-41911F863A82", "Code": "NigeriaNGN", "Currency": "NGN", "Country_Name": "Nigeria", "Flag": "True"}
+{"ID": "161", "MUID": "48B02D0A-99A1-4686-9D8B-EF8ECC3CD9F7", "Code": "NiueNZD", "Currency": "NZD", "Country_Name": "Niue", "Flag": "True"}
+{"ID": "162", "MUID": "85296424-4568-4E23-A8DB-AF1596410BBB", "Code": "Norfolk IslandAUD", "Currency": "AUD", "Country_Name": "Norfolk Island", "Flag": "True"}
+{"ID": "163", "MUID": "D01D0B63-77DF-433C-B407-BD5373638593", "Code": "Northern Mariana IslandsUSD", "Currency": "USD", "Country_Name": "Northern Mariana Islands", "Flag": "True"}
+{"ID": "164", "MUID": "69DAA7F5-92BB-4A2C-8931-CAEB398DA88E", "Code": "NorwayNOK", "Currency": "NOK", "Country_Name": "Norway", "Flag": "True"}
+{"ID": "165", "MUID": "7607447E-F179-49B0-A158-7B1675602F3B", "Code": "OmanOMR", "Currency": "OMR", "Country_Name": "Oman", "Flag": "True"}
+{"ID": "166", "MUID": "101E5C48-8A54-4E19-9637-7AD3235A4E1F", "Code": "PakistanPKR", "Currency": "PKR", "Country_Name": "Pakistan", "Flag": "True"}
+{"ID": "167", "MUID": "FC595F2C-A547-49E5-804C-EDBD03BF5F65", "Code": "PalauUSD", "Currency": "USD", "Country_Name": "Palau", "Flag": "True"}
+{"ID": "168", "MUID": "4A448256-16C3-4AD0-9147-ED89F75DFD90", "Code": "Palestinian Territory, OccupiedILS", "Currency": "ILS", "Country_Name": "Palestinian Territory, Occupied", "Flag": "True"}
+{"ID": "169", "MUID": "89ED23D2-8E90-4A8E-B862-F31F91525263", "Code": "PanamaUSD", "Currency": "USD", "Country_Name": "Panama", "Flag": "True"}
+{"ID": "170", "MUID": "A90295F0-2E66-4A82-AFD4-1FC4BE057FF7", "Code": "Papua New GuineaPGK", "Currency": "PGK", "Country_Name": "Papua New Guinea", "Flag": "True"}
+{"ID": "171", "MUID": "82C609F1-1D2D-41C4-8266-D8682A17BA68", "Code": "ParaguayPYG", "Currency": "PYG", "Country_Name": "Paraguay", "Flag": "True"}
+{"ID": "172", "MUID": "C1CAB318-6607-462D-8B64-B623DCBD3084", "Code": "PeruPEN", "Currency": "PEN", "Country_Name": "Peru", "Flag": "True"}
+{"ID": "173", "MUID": "CF490EBF-8422-4F51-85AD-BA7D53629C74", "Code": "PhilippinesPHP", "Currency": "PHP", "Country_Name": "Philippines", "Flag": "True"}
+{"ID": "174", "MUID": "C2FB5E33-7610-463B-AAC6-AF70440CD424", "Code": "PitcairnNZD", "Currency": "NZD", "Country_Name": "Pitcairn", "Flag": "True"}
+{"ID": "175", "MUID": "021CA833-0DAE-4A0A-8407-71A8FA69FAB6", "Code": "PolandPLN", "Currency": "PLN", "Country_Name": "Poland", "Flag": "True"}
+{"ID": "176", "MUID": "2ADA6318-49BF-4DAB-AD48-28B715A32901", "Code": "PortugalEUR", "Currency": "EUR", "Country_Name": "Portugal", "Flag": "True"}
+{"ID": "177", "MUID": "FF4541D4-02D5-4C2D-96C9-98B5C75B7494", "Code": "Puerto RicoUSD", "Currency": "USD", "Country_Name": "Puerto Rico", "Flag": "True"}
+{"ID": "178", "MUID": "2FC7F076-2F13-4B47-BC33-DBF28C969CB3", "Code": "QatarQAR", "Currency": "QAR", "Country_Name": "Qatar", "Flag": "True"}
+{"ID": "179", "MUID": "366DE0AF-837F-4D1E-BE48-6C26DFF98CEB", "Code": "ReunionEUR", "Currency": "EUR", "Country_Name": "Reunion", "Flag": "True"}
+{"ID": "180", "MUID": "DEA66899-FAB0-4B89-A33C-E972ECBB5336", "Code": "RomaniaRON", "Currency": "RON", "Country_Name": "Romania", "Flag": "True"}
+{"ID": "181", "MUID": "82D9D184-D53B-4E20-A380-8DC88A6D60B4", "Code": "Russian FederationRUB", "Currency": "RUB", "Country_Name": "Russian Federation", "Flag": "True"}
+{"ID": "182", "MUID": "E0D28BD9-1346-4AD9-A69B-4CCEAACBB266", "Code": "RwandaRWF", "Currency": "RWF", "Country_Name": "Rwanda", "Flag": "True"}
+{"ID": "183", "MUID": "75F7C5F8-2DB6-4B36-8797-6D91786BC789", "Code": "Saint Helena, Ascension and Tristan da CunhaSHP", "Currency": "SHP", "Country_Name": "Saint Helena, Ascension and Tristan da Cunha", "Flag": "True"}
+{"ID": "184", "MUID": "FB9B7161-7594-4C54-B050-A4FD253F0B4A", "Code": "Saint Kitts and NevisXCD", "Currency": "XCD", "Country_Name": "Saint Kitts and Nevis", "Flag": "True"}
+{"ID": "185", "MUID": "462D6666-EDDC-43F1-BEE7-443AA043C52D", "Code": "Saint LuciaXCD", "Currency": "XCD", "Country_Name": "Saint Lucia", "Flag": "True"}
+{"ID": "186", "MUID": "16E022F1-DBAA-435F-B55F-912F3C6A53B3", "Code": "Saint Pierre and MiquelonEUR", "Currency": "EUR", "Country_Name": "Saint Pierre and Miquelon", "Flag": "True"}
+{"ID": "187", "MUID": "D06AD0C0-0965-485F-99F3-AC91CEFC7C43", "Code": "Saint Vincent and the GrenadinesXCD", "Currency": "XCD", "Country_Name": "Saint Vincent and the Grenadines", "Flag": "True"}
+{"ID": "188", "MUID": "ECC4E581-90B4-4FD2-A017-BD62C27253E1", "Code": "SamoaWST", "Currency": "WST", "Country_Name": "Samoa", "Flag": "True"}
+{"ID": "189", "MUID": "8658DFA2-994C-45EB-8D48-5623412E4782", "Code": "San MarinoEUR", "Currency": "EUR", "Country_Name": "San Marino", "Flag": "True"}
+{"ID": "190", "MUID": "166C0D85-3CAB-4610-B3AA-D42D595484C1", "Code": "Sao Tome and PrincipeSTD", "Currency": "STD", "Country_Name": "Sao Tome and Principe", "Flag": "True"}
+{"ID": "191", "MUID": "E11E005C-AC74-47C6-BFFA-CFFE0A042125", "Code": "Saudi ArabiaSAR", "Currency": "SAR", "Country_Name": "Saudi Arabia", "Flag": "True"}
+{"ID": "192", "MUID": "30475AC7-4F5E-45B4-BC40-75817781F72B", "Code": "SenegalXOF", "Currency": "XOF", "Country_Name": "Senegal", "Flag": "True"}
+{"ID": "193", "MUID": "D7257B5B-8CDC-4D35-8CD2-00E13161AFEC", "Code": "SerbiaRSD", "Currency": "RSD", "Country_Name": "Serbia", "Flag": "True"}
+{"ID": "194", "MUID": "06B3CC4E-5639-4BCD-829F-53928D59E7C0", "Code": "SeychellesSCR", "Currency": "SCR", "Country_Name": "Seychelles", "Flag": "True"}
+{"ID": "195", "MUID": "7733C632-9765-449E-B552-21CE3F148EF9", "Code": "Sierra LeoneSLL", "Currency": "SLL", "Country_Name": "Sierra Leone", "Flag": "True"}
+{"ID": "196", "MUID": "5DFF4503-CBAF-4FB5-8A5E-178A9D2E68D7", "Code": "SingaporeSGD", "Currency": "SGD", "Country_Name": "Singapore", "Flag": "True"}
+{"ID": "197", "MUID": "3D3CA014-F941-4E3C-85E4-F11FFBB16868", "Code": "Sint Maarten (Dutch part)ANG", "Currency": "ANG", "Country_Name": "Sint Maarten (Dutch part)", "Flag": "True"}
+{"ID": "198", "MUID": "DDE71F8A-6EAD-43C8-9721-CE1751BA6792", "Code": "SlovakiaEUR", "Currency": "EUR", "Country_Name": "Slovakia", "Flag": "True"}
+{"ID": "199", "MUID": "8BE0D593-5372-40A8-9D8A-332D1CBFFA2E", "Code": "SloveniaEUR", "Currency": "EUR", "Country_Name": "Slovenia", "Flag": "True"}
+{"ID": "200", "MUID": "EF945056-ABD7-40AE-8BBF-E131AB8700D4", "Code": "Solomon IslandsSBD", "Currency": "SBD", "Country_Name": "Solomon Islands", "Flag": "True"}
+{"ID": "201", "MUID": "5CA28EF6-B71A-4BB1-AF3D-7FED80318CAE", "Code": "SomaliaSOS", "Currency": "SOS", "Country_Name": "Somalia", "Flag": "True"}
+{"ID": "202", "MUID": "A4040456-3628-4A78-99CF-AB2221ABC63D", "Code": "South AfricaZAR", "Currency": "ZAR", "Country_Name": "South Africa", "Flag": "True"}
+{"ID": "203", "MUID": "7D347DDF-035B-41BD-958B-F6B19B989D9B", "Code": "South SudanSSP", "Currency": "SSP", "Country_Name": "South Sudan", "Flag": "True"}
+{"ID": "204", "MUID": "9861E4CB-A945-4E78-98C4-655ED8033931", "Code": "SpainEUR", "Currency": "EUR", "Country_Name": "Spain", "Flag": "True"}
+{"ID": "205", "MUID": "7779DA47-C28D-42A7-B502-146CB5590648", "Code": "Sri LankaLKR", "Currency": "LKR", "Country_Name": "Sri Lanka", "Flag": "True"}
+{"ID": "206", "MUID": "84CE99AC-F7D6-4892-92E8-1B840DA0DF5E", "Code": "SudanSDG", "Currency": "SDG", "Country_Name": "Sudan", "Flag": "True"}
+{"ID": "207", "MUID": "F7B6547B-EE3A-41B9-ABAB-35473AAA7A87", "Code": "SurinameSRD", "Currency": "SRD", "Country_Name": "Suriname", "Flag": "True"}
+{"ID": "208", "MUID": "277B2DC9-2107-4054-9E9E-BF72875B7D27", "Code": "Svalbard and Jan Mayen NOK", "Currency": "NOK", "Country_Name": "Svalbard and Jan Mayen", "Flag": "True"}
+{"ID": "209", "MUID": "0F4B8D09-634C-46D4-9FB7-A41524DC05F9", "Code": "SwazilandSZL", "Currency": "SZL", "Country_Name": "Swaziland", "Flag": "True"}
+{"ID": "210", "MUID": "740DCCF0-D920-4820-8667-DD47AF28D593", "Code": "SwedenSEK", "Currency": "SEK", "Country_Name": "Sweden", "Flag": "True"}
+{"ID": "211", "MUID": "25387479-0587-43CC-B861-F3212DA32F9D", "Code": "SwitzerlandCHF", "Currency": "CHF", "Country_Name": "Switzerland", "Flag": "True"}
+{"ID": "212", "MUID": "316AF6F1-4812-444C-8A02-A571F034408C", "Code": "Syrian Arab RepublicSYP", "Currency": "SYP", "Country_Name": "Syrian Arab Republic", "Flag": "True"}
+{"ID": "213", "MUID": "BF3355DA-395B-45F5-9068-58B13507A12B", "Code": "TaiwanTWD", "Currency": "TWD", "Country_Name": "Taiwan", "Flag": "True"}
+{"ID": "214", "MUID": "E97CD838-548F-4F63-AA24-B76CA097B591", "Code": "TajikistanRUB", "Currency": "RUB", "Country_Name": "Tajikistan", "Flag": "True"}
+{"ID": "215", "MUID": "F4E91C34-C928-4D62-BEF7-25C2F39E8D0B", "Code": "Tanzania, United Republic ofTZS", "Currency": "TZS", "Country_Name": "Tanzania, United Republic of", "Flag": "True"}
+{"ID": "216", "MUID": "AE76F318-FB8B-4E6B-8C15-EEB3840B6D0D", "Code": "ThailandTHB", "Currency": "THB", "Country_Name": "Thailand", "Flag": "True"}
+{"ID": "217", "MUID": "7F1F84FC-A978-49FF-B4BA-C2D1F62AE308", "Code": "Timor-LesteUSD", "Currency": "USD", "Country_Name": "Timor-Leste", "Flag": "True"}
+{"ID": "218", "MUID": "9F8D65FD-AAA4-4868-9E38-9CDB06D9F5D4", "Code": "TogoXOF", "Currency": "XOF", "Country_Name": "Togo", "Flag": "True"}
+{"ID": "219", "MUID": "A776742F-71E5-43D2-A592-448256BC0A3E", "Code": "TokelauNZD", "Currency": "NZD", "Country_Name": "Tokelau", "Flag": "True"}
+{"ID": "220", "MUID": "92CB245C-7509-43B9-92C9-88172FB4068E", "Code": "TongaTOP", "Currency": "TOP", "Country_Name": "Tonga", "Flag": "True"}
+{"ID": "221", "MUID": "C1EEA395-7170-40AE-831A-0978638D5CB4", "Code": "Trinidad and TobagoTTD", "Currency": "TTD", "Country_Name": "Trinidad and Tobago", "Flag": "True"}
+{"ID": "222", "MUID": "EEC44081-890F-4919-9C2B-4504E411C87F", "Code": "TunisiaTND", "Currency": "TND", "Country_Name": "Tunisia", "Flag": "True"}
+{"ID": "223", "MUID": "76C2BF8B-2D04-4CDF-BE35-EA7B26DC1EEF", "Code": "TurkeyTRY", "Currency": "TRY", "Country_Name": "Turkey", "Flag": "True"}
+{"ID": "224", "MUID": "6AD6D7D6-DDB1-45D1-BE21-859BFB32094E", "Code": "TurkmenistanTMM", "Currency": "TMM", "Country_Name": "Turkmenistan", "Flag": "True"}
+{"ID": "225", "MUID": "EF0188D0-0D33-4D33-AFC5-86F179779891", "Code": "Turks and Caicos IslandsUSD", "Currency": "USD", "Country_Name": "Turks and Caicos Islands", "Flag": "True"}
+{"ID": "226", "MUID": "7BBFB26C-9A9E-4AE6-B5D9-57621AFE91A0", "Code": "TuvaluAUD", "Currency": "AUD", "Country_Name": "Tuvalu", "Flag": "True"}
+{"ID": "227", "MUID": "61786BFA-E042-42FD-B387-C1CA1017982F", "Code": "UgandaUGX", "Currency": "UGX", "Country_Name": "Uganda", "Flag": "True"}
+{"ID": "228", "MUID": "0CB44567-8919-4272-A03F-D2C771C340C5", "Code": "UkraineUAH", "Currency": "UAH", "Country_Name": "Ukraine", "Flag": "True"}
+{"ID": "229", "MUID": "58E3DF0C-DF0E-4604-B708-2C4974D27436", "Code": "United Arab EmiratesAED", "Currency": "AED", "Country_Name": "United Arab Emirates", "Flag": "True"}
+{"ID": "230", "MUID": "EF7CFBA2-558F-4496-B7CF-30186D6C4948", "Code": "United KingdomGBP", "Currency": "GBP", "Country_Name": "United Kingdom", "Flag": "True"}
+{"ID": "231", "MUID": "A4AEB809-8DC9-44FD-A1F3-A2E61C3A12F8", "Code": "United StatesUSD", "Currency": "USD", "Country_Name": "United States", "Flag": "True"}
+{"ID": "232", "MUID": "ABBC7388-0D33-4DC9-9638-4303553A4296", "Code": "United States Minor Outlying IslandsUSD", "Currency": "USD", "Country_Name": "United States Minor Outlying Islands", "Flag": "True"}
+{"ID": "233", "MUID": "55C88A1A-CF8B-48CD-8F57-7960C6D8BEC4", "Code": "UruguayUYU", "Currency": "UYU", "Country_Name": "Uruguay", "Flag": "True"}
+{"ID": "234", "MUID": "3B6D34C9-5511-4414-B2D8-80A29122152F", "Code": "UzbekistanUZS", "Currency": "UZS", "Country_Name": "Uzbekistan", "Flag": "True"}
+{"ID": "235", "MUID": "9E238098-ABFB-41A2-AFDB-90DCB1BF3EAF", "Code": "VanuatuVUV", "Currency": "VUV", "Country_Name": "Vanuatu", "Flag": "True"}
+{"ID": "236", "MUID": "C3748535-EA67-4215-B01F-C376BD43BE14", "Code": "Venezuela, Bolivarian Republic ofVES", "Currency": "VES", "Country_Name": "Venezuela, Bolivarian Republic of", "Flag": "True"}
+{"ID": "237", "MUID": "CA93DAB6-8D59-47A9-A18D-9410FDC1104E", "Code": "Viet NamVND", "Currency": "VND", "Country_Name": "Viet Nam", "Flag": "True"}
+{"ID": "238", "MUID": "9091E6BC-3A9A-402E-A7AC-C2795D979218", "Code": "Virgin Islands (British)USD", "Currency": "USD", "Country_Name": "Virgin Islands (British)", "Flag": "True"}
+{"ID": "239", "MUID": "33AEAF47-549B-44DB-B412-76D4118204BB", "Code": "Virgin Islands, (U.S.)USD", "Currency": "USD", "Country_Name": "Virgin Islands, (U.S.)", "Flag": "True"}
+{"ID": "240", "MUID": "1DB0A5B7-8528-41C5-B31C-42A1054EF700", "Code": "Wallis and FutunaXPF", "Currency": "XPF", "Country_Name": "Wallis and Futuna", "Flag": "True"}
+{"ID": "241", "MUID": "7CC3B087-7533-4154-B8B9-86E5126C62B1", "Code": "YemenYER", "Currency": "YER", "Country_Name": "Yemen", "Flag": "True"}
+{"ID": "242", "MUID": "86D1C6A3-AAC1-4F4F-A6D7-3A071A833B95", "Code": "ZambiaZMW", "Currency": "ZMW", "Country_Name": "Zambia", "Flag": "True"}
+{"ID": "243", "MUID": "8B257DB8-3F95-4317-B102-B7A1B1D608FA", "Code": "ZimbabweUSD", "Currency": "USD", "Country_Name": "Zimbabwe", "Flag": "True"}

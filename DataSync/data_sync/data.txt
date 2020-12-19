@@ -1,0 +1,1 @@
+{"schema_name": "kncioncw", "table_name": "ivnviw", "server_url": "winwvi", "port_number": "65", "user_name": "cnwin", "password": "wicniwviw", "csrfmiddlewaretoken": "BJIKdUbimaCO6UFTjvMjFcRGCUuRwxX2NsjYqtydWZZNcFVdtHWHBhcHt8P7JPvy"}

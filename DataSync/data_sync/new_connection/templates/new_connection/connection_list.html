@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>List of recent connections</title>
+</head>
+<body>
+<h2>Recent connections</h2>
+<ul>
+    {% for s in new_conn %}
+    <li>
+        {{s}}
+    </li>
+    {% endfor %}
+</ul>
+</body>
+</html>
